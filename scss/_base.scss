@@ -1,0 +1,27 @@
+$light-color:#B3E5FC;
+$black-color:rgb(119, 4, 4);
+$primary-color:#FB8C00;
+$text-color:#E0E0E0;
+
+@mixin flex {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+@mixin text-style {
+    letter-spacing: 2px;
+    font-weight: 300;
+    text-transform: uppercase;
+    
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: $black-color;
+    direction: rtl;
+}
