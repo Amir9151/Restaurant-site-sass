@@ -12,8 +12,4 @@ However, please note that this will install the pure JavaScript implementation o
 
 See the Sass website for more ways to install Sass.
 
-Once you have Sass installed, you can run the sass executable to compile .sass and .scss files to .css files. For example:
 
-sass source/stylesheets/index.scss build/stylesheets/index.css
-Learn Sass
-Check out the Sass website for a guide on how to learn Sass!
